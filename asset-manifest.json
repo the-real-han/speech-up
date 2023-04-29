@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/speech-up/static/css/main.e254b60d.css",
+    "main.js": "/speech-up/static/js/main.e7615928.js",
+    "static/js/787.4845aa39.chunk.js": "/speech-up/static/js/787.4845aa39.chunk.js",
+    "index.html": "/speech-up/index.html",
+    "main.e254b60d.css.map": "/speech-up/static/css/main.e254b60d.css.map",
+    "main.e7615928.js.map": "/speech-up/static/js/main.e7615928.js.map",
+    "787.4845aa39.chunk.js.map": "/speech-up/static/js/787.4845aa39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e254b60d.css",
+    "static/js/main.e7615928.js"
+  ]
+}
